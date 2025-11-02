@@ -1,4 +1,4 @@
-<h1 align="center">💰 Stock Market Prediction using LSTM 💸</h1>
+<h1 align="center"> Stock Market Prediction using LSTM </h1>
 
 <p align="center">
   Stock Market Prediction using LSTM project contains the code and resources for predicting stock market trends using Long Short-Term Memory (LSTM) neural networks. We aim to forecast stock prices and make informed investment decisions.
@@ -26,4 +26,4 @@ To run the project locally, follow these steps:
 ## Results and Discussion 📊
 In this section, we present the results of our stock market prediction experiments. We discuss the model's performance, its strengths, limitations, and potential areas of improvement. We also provide visualizations of the predicted stock prices and compare them with the actual prices.
 
-<img width="1028" alt="Screenshot 2023-05-10 at 4 33 59 AM" src="">
+<img width="528" src="https://github.com/amareshwar3/Stock-Price-Prediction/blob/main/results.png">
